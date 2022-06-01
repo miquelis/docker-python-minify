@@ -1,3 +1,3 @@
 # docker-python-minify
 
-Docker criado com o python 3.8.13 e o minify
+Docker built with python 3.8.13 and minify
